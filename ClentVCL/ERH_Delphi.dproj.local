@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/17 20:47:10.000.528,=C:\Users\User\Desktop\DELPHI\Unit1.pas</Transaction>
+    <Transaction>2023/10/25 07:11:57.000.680,=C:\Users\User\Desktop\DELPHI\Unit1.pas</Transaction>
+    <Transaction>2024/01/24 20:43:12.000.555,=C:\Users\User\Desktop\DELPHI\Unit1.pas</Transaction>
+    <Transaction>2024/01/27 15:38:37.000.117,=C:\Users\User\Desktop\DELPHI\Unit1.pas</Transaction>
+    <Transaction>2024/02/02 12:21:37.000.162,=C:\Users\User\Desktop\DELPHI\Unit1.pas</Transaction>
+    <Transaction>2024/02/02 12:37:13.000.742,D:\Projetos\Mini-ERP-Delphi\ClentVCL\SRC\Vew\ERP_Vew_Principal.pas=C:\Users\User\Desktop\DELPHI\Unit1.pas</Transaction>
+    <Transaction>2024/02/02 12:37:13.000.742,D:\Projetos\Mini-ERP-Delphi\ClentVCL\SRC\Vew\ERP_Vew_Principal.dfm=C:\Users\User\Desktop\DELPHI\Unit1.dfm</Transaction>
+    <Transaction>2024/02/02 12:37:51.000.352,D:\Projetos\Mini-ERP-Delphi\ClentVCL\ERH_Delphi.dproj=C:\Users\User\Desktop\DELPHI\Project1.dproj</Transaction>
+    <Transaction>2024/02/02 12:38:56.000.131,=D:\Projetos\Mini-ERP-Delphi\ClentVCL\Unit1.pas</Transaction>
+    <Transaction>2024/02/02 12:42:15.000.443,D:\Projetos\Mini-ERP-Delphi\ClentVCL\SRC\Vew\Styles\ERP_Delphi_Style_Color.pas=D:\Projetos\Mini-ERP-Delphi\ClentVCL\Unit1.pas</Transaction>
+    <Transaction>2024/02/02 20:36:46.704,=D:\Projetos\Mini-ERP-Delphi\ClentVCL\Unit1.pas</Transaction>
+    <Transaction>2024/02/02 20:38:41.685,D:\Projetos\Mini-ERP-Delphi\ClentVCL\SRC\Vew\Pages\ERP_Delphi_Pages_Principal.dfm=D:\Projetos\Mini-ERP-Delphi\ClentVCL\Unit1.dfm</Transaction>
+    <Transaction>2024/02/02 20:38:41.685,D:\Projetos\Mini-ERP-Delphi\ClentVCL\SRC\Vew\Pages\ERP_Delphi_Pages_Principal.pas=D:\Projetos\Mini-ERP-Delphi\ClentVCL\Unit1.pas</Transaction>
+    <Transaction>2024/02/02 20:44:16.695,=D:\Projetos\Mini-ERP-Delphi\ClentVCL\Unit1.pas</Transaction>
+    <Transaction>2024/02/02 20:49:38.162,D:\Projetos\Mini-ERP-Delphi\ClentVCL\SRC\Vew\Pages\ERP_Delphi_Pages_Usuarios.pas=D:\Projetos\Mini-ERP-Delphi\ClentVCL\Unit1.pas</Transaction>
+    <Transaction>2024/02/02 20:49:38.162,D:\Projetos\Mini-ERP-Delphi\ClentVCL\SRC\Vew\Pages\ERP_Delphi_Pages_Usuarios.dfm=D:\Projetos\Mini-ERP-Delphi\ClentVCL\Unit1.dfm</Transaction>
+    <Transaction>2024/02/02 21:07:37.046,=D:\Projetos\Mini-ERP-Delphi\ClentVCL\Unit1.pas</Transaction>
+    <Transaction>2024/02/02 21:08:58.135,D:\Projetos\Mini-ERP-Delphi\ClentVCL\SRC\Vew\Routers\ERP_Delphi_Routers.pas=D:\Projetos\Mini-ERP-Delphi\ClentVCL\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

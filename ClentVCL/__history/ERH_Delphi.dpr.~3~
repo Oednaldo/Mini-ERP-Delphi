@@ -1,0 +1,16 @@
+program ERH_Delphi;
+
+uses
+  Vcl.Forms,
+  ERP_Vew_Principal in 'SRC\Vew\ERP_Vew_Principal.pas' {Frm_principal},
+  ERP_Delphi_Style_Color in 'SRC\Vew\Styles\ERP_Delphi_Style_Color.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  ReportMemoryLeaksOnShutdown:= True;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrm_principal, Frm_principal);
+  Application.Run;
+end.

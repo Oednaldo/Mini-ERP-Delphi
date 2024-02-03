@@ -1,0 +1,53 @@
+unit ERP_Vew_Principal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.Buttons;
+
+type
+  TFrm_principal = class(TForm)
+    Pnl_Pai: TPanel;
+    Pnl_full: TPanel;
+    Pnl_topo: TPanel;
+    Pnl_menu: TPanel;
+    Pnl_logo: TPanel;
+    Pnl_Grid: TPanel;
+    Btn_principal: TSpeedButton;
+    Btn_usuario: TSpeedButton;
+    procedure FormCreate(Sender: TObject);
+  private
+    procedure ApplyStyle;
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Frm_principal: TFrm_principal;
+
+implementation
+
+uses
+  ERP_Delphi_Style_Color;
+
+{$R *.dfm}
+
+{ TFrm_principal }
+
+procedure TFrm_principal.ApplyStyle;
+begin
+
+end;
+
+procedure TFrm_principal.FormCreate(Sender: TObject);
+begin
+  Pnl_Grid.Color := COLOR_BACKGROUND;
+  Pnl_topo.Color := COLOR_BACKGROUND_TOP;
+  Pnl_logo.Color := COLOR_BACKGROUND_DESTAK;
+  Pnl_menu.Color := COLOR_BACKGROUND_MENU;
+
+end;
+
+end.
